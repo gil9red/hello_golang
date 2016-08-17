@@ -9,6 +9,6 @@ func main() {
 	fmt.Println("Hello World!")
 
 	// Ожидание закрытия консоли
-	var b string
-	fmt.Scanf("%d", &b)
+	var c string
+	fmt.Scanf("%s", &c)
 }
